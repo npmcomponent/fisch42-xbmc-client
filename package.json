@@ -1,0 +1,14 @@
+{
+  "name": "fisch42-xbmc-client",
+  "description": "XBMC Client using WebSockets.",
+  "version": "0.0.2-1",
+  "keywords": [
+    "xbmc",
+    "WebSockets"
+  ],
+  "main": "xbmc-client.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
